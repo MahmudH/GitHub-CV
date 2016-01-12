@@ -43,7 +43,7 @@ Highly selective 12 week intensive coding bootcamp.
 * Final Year Project:	Developed a web-based application called Student Portal, where students can search for jobs or accommodation. Grade 2:1
 
 ### Work Experience
-**Partner**, [Pummello](http://www.pummello.com/), Creative Agency: 03/15-10/15
+**Partner**, [Pummello, Creative Agency](http://www.pummello.com/): 03/15-10/15
 
 * Focusing on UX Design and Front-end development using HTML/CSS and jQuery
 * Using Adobe Photoshop and Illustrator to design and mock websites
@@ -51,7 +51,7 @@ Highly selective 12 week intensive coding bootcamp.
 * Variety of other roles included, building client relationships, sales and management
 
 
-**IT Support Analyst**, Oliver James Associates: 02/13-08/15
+**IT Support Analyst**, [Oliver James Associates](http://www.ojassociates.com/): 02/13-08/15
 
 * Troubleshooting, administrating and supporting Windows 7, Microsoft Office, Microsoft Exchange 2008 and Adapt Bond database
 * Rolling out Office 2013 and providing user training
@@ -61,7 +61,7 @@ Highly selective 12 week intensive coding bootcamp.
 * In charge of ordering IT equipment
 * Maintaining and setting up Digital/IP telephones
 
-**IMAC Engineer**, Payment Sense: 12/12-01/13
+**IMAC Engineer**, [Payment Sense](http://www.paymentsense.co.uk/lp/v2/): 12/12-01/13
 
 * Assisting the company for an office move due to the expansion of the company
 * Providing hardware and software support for up to 200 users
@@ -69,7 +69,7 @@ Highly selective 12 week intensive coding bootcamp.
 * Installing windows 7 OS onto the computers and then adding them to the domain
 * Putting the computers into the right OU then using gpupdate command to apply group policies
 
-**IT Helpdesk Analyst**, SJ Berwin: 10/12-12/12
+**IT Helpdesk Analyst**, [King & Wood Mallesons, formerly SJ Berwin](http://www.kwm.com/en/): 10/12-12/12
 
 * Picking up calls of up to 30 per day in a pressurised environment of up to 700 employees and communicating with them to solve issues they are facing
 * Troubleshooting and solving problems relating to various failures and requests relating to company core technologies such as Interwoven * Filesite, Carpe Diem, Microsoft Office, Adobe, BigHand, printers and Windows 7 OS
