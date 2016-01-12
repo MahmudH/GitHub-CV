@@ -32,6 +32,7 @@ To further up skill my love of coding to become brilliant and follow best practi
 ### Education
 
 **Makers Academy:** Oct 2015-Jan 2016
+
 Highly selective 12 week intensive coding bootcamp.
 * Focused on pair programming, test driven development, agile practices
 * Object oriented programming, software design
