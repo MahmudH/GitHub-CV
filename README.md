@@ -42,7 +42,7 @@ Highly selective 12 week intensive coding bootcamp.
 * Core Modules:	Software Engineering, Mathematics for Computing, Data Mining, Computer Security
 * Final Year Project:	Developed a web-based application called Student Portal, where students can search for jobs or accommodation. Grade 2:1
 
-#### Work Experience
+### Work Experience
 **Partner**, [Pummello](http://www.pummello.com/), Creative Agency: 03/15-10/15
 
 * Focusing on UX Design and Front-end development using HTML/CSS and jQuery
