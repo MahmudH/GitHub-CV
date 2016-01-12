@@ -22,9 +22,20 @@ To further up skill my love of coding to become brilliant and follow best practi
 ### Skills
 
 |         | Strong           | Know  |
-| :-------------: |:-------------:| :-----:|
+| :------------- |:-------------|
 | Languages      | HTML5, CSS3, Ruby, JavaScript, Swift | Java |
 | Frameworks     | AngularJS, Sinatra, Ruby on Rails, jQuery    |   NodeJS, ExpressJS |
 | Databases | PostgreSQL, ActiveRecord, DataMapper, Firebase      |    MongoDB |
 | Testing     | RSpec, Capybara, Jasmine | Protractor, Karma, XCTest  |
-| Other      | GitHub version control, Agile methodologies, Heroku Deployment, Vim, iBeacons, XCode, Football | SOLID principles, Table Tennis |
+| Other      | GitHub version control, Agile methodologies, Heroku Deployment, Vim, iBeacons, XCode, Football - Centre Back | SOLID principles, Table Tennis |
+
+### Education
+
+#### Makers Academy: Oct 2015-Jan 2016
+Highly selective 12 week intensive coding bootcamp.
+* Focussed on pair programming, test driven development, agile practices
+* Object oriented programming, software design
+* Full stack web development
+* Final project: Changr - Mobile app to help people donate to homeless people using beacons and PayPal API.
+
+#### Goldsmiths, University of London: Sept 2008-Sept 2011
