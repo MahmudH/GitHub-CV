@@ -22,12 +22,12 @@ To further up skill my love of coding to become brilliant and follow best practi
 ### Skills
 
 |         | Strong           | Know  |
-| :------------- |:-------------|
+| ------------- |:-------------| -----|
 | Languages      | HTML5, CSS3, Ruby, JavaScript | Java, Swift |
-| Frameworks     | AngularJS, Sinatra, Ruby on Rails, jQuery    |   NodeJS, ExpressJS |
+| Frameworks      | AngularJS, Sinatra, Ruby on Rails, jQuery      |   NodeJS, ExpressJS |
 | Databases | PostgreSQL, ActiveRecord, DataMapper, Firebase      |    MongoDB |
-| Testing     | RSpec, Capybara, Jasmine | Protractor, Karma, XCTest  |
-| Other      | GitHub version control, Agile methodologies, Heroku Deployment, Vim, iBeacons, XCode, Football - Centre Back | SOLID principles, Table Tennis |
+| Testing | RSpec, Capybara, Jasmine      |    Protractor, Karma, XCTest |
+| Other | GitHub version control, Agile methodologies, Heroku Deployment, Vim, iBeacons, XCode, Football     |    SOLID principles, Table Tennis |
 
 ### Education
 
