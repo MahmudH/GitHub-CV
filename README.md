@@ -31,14 +31,14 @@ To further up skill my love of coding to become brilliant and follow best practi
 
 ### Education
 
-#### Makers Academy: Oct 2015-Jan 2016
+**Makers Academy:** Oct 2015-Jan 2016
 Highly selective 12 week intensive coding bootcamp.
 * Focused on pair programming, test driven development, agile practices
 * Object oriented programming, software design
 * Full stack web development
 * Final project: Changr - Mobile app to help people donate to homeless people using beacons and PayPal API.
 
-#### Goldsmiths, University of London: Sept 2008-Sept 2011
+**Goldsmiths, University of London:** Sept 2008-Sept 2011
 * Core Modules:	Software Engineering, Mathematics for Computing, Data Mining, Computer Security
 * Final Year Project:	Developed a web-based application called Student Portal, where students can search for jobs or accommodation. Grade 2:1
 
